@@ -1,5 +1,5 @@
 # magento-login-popup
-Magento 2 Login Popup extension free make it easier for users to login by showing a login popup instead of moving to a new page.
+With Magento 2 Login Popup extension, customers to login in a popup window easily, help you improve the customer experience
 
 Please go to https://magehq.com/login-popup.html download free extension
 
